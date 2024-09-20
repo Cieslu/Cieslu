@@ -15,13 +15,13 @@ I'm enthusiast about web applications programming about different scope's topic.
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png?f=webp&w=256" alt="C#" width="80"/>
 </span>
 <span>
-  <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="Angular" width="70"/>
+  <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="Angular" width="80"/>
 </span>
 <span>
-  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="90"/>
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="80"/>
 </span>
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="70"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="80"/>
 </span>
 
 
