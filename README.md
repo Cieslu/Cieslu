@@ -26,5 +26,8 @@ I'm enthusiast about web applications programming about different scope's topic.
 <span>
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="80"/>
 </span>
+<span>
+  <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" alt="JavaScript" width="80"/>
+</span>
 
 
