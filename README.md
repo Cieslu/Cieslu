@@ -1,5 +1,5 @@
 # Hi, I'm Szymon👋
-🌱 I’m currently learning technologies:
+🌱 I’m currently learning:
 - ASP.NET Core
 - C#
 - Angular
