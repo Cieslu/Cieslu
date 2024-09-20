@@ -23,5 +23,8 @@ I'm enthusiast about web applications programming about different scope's topic.
 <span>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="80"/>
 </span>
+<span>
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="80"/>
+</span>
 
 
